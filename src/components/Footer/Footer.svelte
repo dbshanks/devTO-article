@@ -1,3 +1,6 @@
+<script>
+import './Footer.scss';
+</script>
 <style src="./Footer.scss"></style>
 
 <footer class="footer__container">

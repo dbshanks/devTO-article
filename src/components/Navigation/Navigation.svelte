@@ -1,3 +1,6 @@
+<script>
+import './Navigation.scss';
+</script>
 <style src="./Navigation.scss"></style>
 
 <nav class="navBar">

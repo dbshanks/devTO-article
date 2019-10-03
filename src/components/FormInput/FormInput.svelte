@@ -1,4 +1,6 @@
 <script>
+    import './FormInput.scss';
+
     export let placeholderMsg;
     export let name;
     export let classProp;

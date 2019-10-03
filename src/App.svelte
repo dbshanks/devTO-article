@@ -3,6 +3,7 @@
 	import FormInput from './components/FormInput/FormInput';
 	import Button from './components/Button/Button';
 	import Footer from './components/Footer/Footer';
+	import './App.scss';
 </script>
 
 <style src="./App.scss"></style>

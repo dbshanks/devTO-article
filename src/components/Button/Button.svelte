@@ -1,4 +1,6 @@
 <script>
+    import './Button.scss';
+
     export let btnType;
     export let classType;
     export let buttonMsg;
