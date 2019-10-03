@@ -1,8 +1,8 @@
 <script>
-	import Navigation from './components/Navigation/Navigation.component';
-	import FormInput from './components/FormInput/FormInput.component';
-	import Button from './components/Button/Button.component';
-	import Footer from './components/Footer/Footer.component';
+	import Navigation from './components/Navigation/Navigation';
+	import FormInput from './components/FormInput/FormInput';
+	import Button from './components/Button/Button';
+	import Footer from './components/Footer/Footer';
 </script>
 
 <style src="./App.styles.scss"></style>
