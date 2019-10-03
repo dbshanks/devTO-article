@@ -1,0 +1,27 @@
+.button {
+	width: 10rem;
+	height: 3rem;
+	background: #fafafa;
+	color: #666;
+	font-size: 1.1rem;
+	outline: none;
+	border: 1px solid #212121;
+	transition: all 0.3s ease-in-out;
+
+	&:hover,
+	&:active {
+		background-color: #212121;
+		color: #f5f5f5;
+		border: 1px solid #212121;
+		border-radius: 2.5rem;
+	}
+	&:focus {
+		background-color: #64dd17;
+		color: #f5f5f5;
+		border: 1px solid #64dd17;
+	}
+}
+
+.fas {
+	margin-left: 1.1rem;
+}
