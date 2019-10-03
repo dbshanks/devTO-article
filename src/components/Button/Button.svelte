@@ -4,7 +4,7 @@
     export let buttonMsg;
 </script>
 
-<style src="./Button.styles.scss"></style>
+<style src="./Button.scss"></style>
 
 <button 
     btnType="{ btnType }" 

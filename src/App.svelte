@@ -5,7 +5,7 @@
 	import Footer from './components/Footer/Footer';
 </script>
 
-<style src="./App.styles.scss"></style>
+<style src="./App.scss"></style>
 
 <div class="main__container">
 

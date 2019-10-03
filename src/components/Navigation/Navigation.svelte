@@ -1,4 +1,4 @@
-<style src="./Navigation.styles.scss"></style>
+<style src="./Navigation.scss"></style>
 
 <nav class="navBar">
     <div class="navBar__logo">ACME Co.</div>

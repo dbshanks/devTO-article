@@ -5,6 +5,6 @@
     export let inputType;
 </script>
 
-<style src="./FormInput.styles.scss"></style>
+<style src="./FormInput.scss"></style>
 
 <input type="{ inputType }" class="{ classProp }" name="{ name }" placeholder="{ placeholderMsg }" />
