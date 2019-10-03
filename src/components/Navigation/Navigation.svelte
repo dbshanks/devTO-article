@@ -1,7 +1,6 @@
-<script>
-import './Navigation.scss';
-</script>
-<style src="./Navigation.scss"></style>
+<style lang="scss">
+@import './Navigation.scss';
+</style>
 
 <nav class="navBar">
     <div class="navBar__logo">ACME Co.</div>

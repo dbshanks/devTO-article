@@ -1,12 +1,12 @@
 <script>
-    import './Button.scss';
-
     export let btnType;
     export let classType;
     export let buttonMsg;
 </script>
 
-<style src="./Button.scss"></style>
+<style lang="scss">
+@import './Button.scss';
+</style>
 
 <button 
     btnType="{ btnType }" 

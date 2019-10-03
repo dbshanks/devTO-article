@@ -1,12 +1,13 @@
 <script>
-	import Navigation from './components/Navigation/Navigation';
-	import FormInput from './components/FormInput/FormInput';
-	import Button from './components/Button/Button';
-	import Footer from './components/Footer/Footer';
-	import './App.scss';
+	import Navigation from './components/Navigation/Navigation.svelte';
+	import FormInput from './components/FormInput/FormInput.svelte';
+	import Button from './components/Button/Button.svelte';
+	import Footer from './components/Footer/Footer.svelte';
 </script>
 
-<style src="./App.scss"></style>
+<style lang="scss">
+@import './App.scss';
+</style>
 
 <div class="main__container">
 
